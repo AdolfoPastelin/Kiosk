@@ -2,9 +2,36 @@
 
 Kiosk application developed using React and Laravel frameworks along with MySQL as DB, this project utilizes APIs to facilitate seamless communication between the two platforms. Approach that leverages the robust capabilities of Laravel, particularly in terms of server-side logic and data management, while also benefiting from React's strengths in creating interactive and user-friendly interfaces.
 
+![Create Account Dark Mode Section](screenshots/1.jpg)
+*Create new account with dark mode activated.*
+
+![Log In Dark Mode Section](screenshots/2.jpg)
+*Log in to an existing account with dark mode activated.*
+
+![Validation Error Notification](screenshots/3.jpg)
+*Validation example when creating an account.*
+
+![Product Modal Info](screenshots/4.jpg)
+*Product Modal Info with quantity selector.*
+
+![New Product Added To Order](screenshots/5.jpg)
+*Adding a new product to the order.*
+
+![Menu and Order Dark Mode View](screenshots/6.jpg)
+*Order, Menu and categories view with dark mode selected.*
+
+![Admin Panel - Orders](screenshots/7.jpg)
+*Admin Panel - Check for order details and mark "complete order" button functionality.*
+
+![Admin Panel - Products](screenshots/8.jpg)
+*Admin Panel - Check every product registered in the DB and mark as "out of stock" an specific product.*
+
+![Kiosk Tablet View](screenshots/9.jpg)
+*Kiosk tablet view with dark mode selected.*
+
 ## Installation
 
-* **Create a new connection and a new database (using the database tool of your preference)**
+* **Create a new connection and a new database (using the database tool of your preference).**
 
 * **Clone the repository.**
 
